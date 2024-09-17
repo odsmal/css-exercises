@@ -1,0 +1,21 @@
+.redbg {
+    background-color: hsl(0, 59%, 78%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blueitem {
+    color: blue;
+    font-size: 36px;
+}
+
+.greenbg {
+    background-color: hsl(120, 53%, 69%);
+}
+
+.mediumfont {
+    font-size: 24px;
+}
+
+.boldfont {
+    font-weight: bold;
+}
